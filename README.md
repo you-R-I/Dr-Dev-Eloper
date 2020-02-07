@@ -1,2 +1,2 @@
 # Dr-Dev-Eloper
-TJbot Demo for the IBM Client Ceter
+This Demo is made for the IBM Center in Zurich.  A detailed description will be published soon.
