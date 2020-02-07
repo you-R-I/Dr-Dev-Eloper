@@ -10,5 +10,7 @@ A detailed descritption how you:
 - configure your audio (be careful! you cannot use the RGB-LED and the output of the audio jack at the same time)
 - configure the GPIO's
 
+you find here: https://github.com/binnes/tobyjnr/wiki
 
-After you went trough the steps of
+
+After you went trough these steps you can simply insert the NodeRed flow and configure the Watson Nodes with your own API Key.
